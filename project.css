@@ -1,0 +1,40 @@
+body {
+    color: rgb(255, 255, 255);
+    background-color: rgb(31, 39, 38);
+    font-family:monospace;
+    font-size:large;
+    padding: 16px;
+}
+
+
+header h2 {
+    text-align: center;
+   color: rgb(16, 189, 137)
+}
+
+header img {
+    width: 200px;
+    height: 200px;
+    border-radius: 40%;
+    border: 5px solid rgb(15, 83, 63);
+}
+
+.center {
+    text-align: center;
+}
+nav a:hover {
+    color: #42be84;
+}
+
+main a {
+    color: white
+}
+
+
+main section p {
+    text-align: justify;
+}
+
+main section h3 {
+    color: rgb(16, 189, 137)
+}

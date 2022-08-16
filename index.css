@@ -1,7 +1,8 @@
 body {
-    color: white;
+    color: rgb(255, 255, 255);
     background-color: rgb(31, 39, 38);
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:monospace;
+    font-size:large;
 }
 
 ul {
@@ -80,4 +81,19 @@ button {
     border: none;
     width: 100px;
     height: 30px;
+}
+
+main section p {
+    text-align: justify;
+}
+
+
+
+button {
+    background-color: #256b4a;
+    border: #163627;
+    width: 100px;
+    height: 30px;
+    font-family: monospace;
+    font-size: large;
 }
